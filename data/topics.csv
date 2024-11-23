@@ -1,0 +1,6 @@
+# Example topics.csv
+"""
+topic,primary_keywords,additional_keywords,target_audience,tone_style,categories,custom_outline
+"Benefits of Organic Gardening","organic gardening, natural farming","sustainable gardening, eco-friendly","home gardeners","friendly, informative","Gardening,Sustainability","{\"sections\":[{\"type\":\"introduction\",\"elements\":[\"hook\",\"context\"]}]}"
+"Digital Marketing Trends 2024","digital marketing, online marketing","social media, SEO, content marketing","business owners","professional, analytical","Marketing,Business","{\"sections\":[{\"type\":\"analysis\",\"elements\":[\"trends\",\"statistics\"]}]}"
+"""
