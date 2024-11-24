@@ -50,7 +50,7 @@ This tool automates content creation and posting for WordPress websites, featuri
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/wordpress_automation.git
+git clone https://github.com/fxinfo24/wordpress_automation.git
 cd wordpress_automation
 ```
 
