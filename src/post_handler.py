@@ -1,3 +1,11 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Sun Nov 24 14:23:33 2024
+
+@author: thesaint
+"""
+
 # src/post_handler.py
 # Version: 1.0.0
 # Description: Handles WordPress post creation and media uploads

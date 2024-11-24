@@ -1,3 +1,12 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Sun Nov 24 14:31:41 2024
+
+@author: thesaint
+"""
+
+
 # src/config_manager.py
 # Version: 1.0.0
 # Description: Configuration management and logging setup

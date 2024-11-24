@@ -1,3 +1,11 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Sun Nov 24 14:30:55 2024
+
+@author: thesaint
+"""
+
 # setup.py
 from setuptools import setup, find_packages
 

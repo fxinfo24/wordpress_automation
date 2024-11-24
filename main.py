@@ -1,3 +1,11 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Sun Nov 24 14:30:27 2024
+
+@author: thesaint
+"""
+
 # main.py
 # Version: 1.0.0
 # Description: Main execution script for WordPress automation

@@ -1,3 +1,12 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Sun Nov 24 14:31:41 2024
+
+@author: thesaint
+"""
+
+
 # src/wordpress_poster.py
 # Version: 1.2.0
 # Description: Handles WordPress content posting and management

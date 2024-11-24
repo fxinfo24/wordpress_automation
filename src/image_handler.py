@@ -1,3 +1,11 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Sun Nov 24 14:31:41 2024
+
+@author: thesaint
+"""
+
 # src/image_handler.py
 # Version: 1.1.0
 # Description: Handles image fetching, processing, and optimization

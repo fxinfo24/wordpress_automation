@@ -1,3 +1,11 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Sun Nov 24 14:27:09 2024
+
+@author: thesaint
+"""
+
 # create_files.py
 
 # Create requirements.txt and README.md files

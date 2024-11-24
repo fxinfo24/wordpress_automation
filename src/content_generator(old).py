@@ -1,3 +1,11 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Sun Nov 24 14:31:41 2024
+
+@author: thesaint
+"""
+
 # src/content_generator.py
 # Version: 1.1.0
 # Description: Handles content generation using OpenAI GPT
